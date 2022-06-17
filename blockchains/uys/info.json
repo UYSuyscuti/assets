@@ -1,0 +1,17 @@
+{
+    "name": "Uys",
+    "website": "https://uys.com",
+    "description": "Uys is an ecological governance token based on the binance smart chain initiated by the decentralized community Dao. The initiator has given up all token rights and truly delegated power to community autonomy.",
+    "explorer": "https://www.uyscuti.online/",
+    "research": "https://research.binance.com/en/projects/uys",
+    "symbol": "AION",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://file.uyscuti.online/whitePaper_zh.pdf"
+        }
+    ]
+}
